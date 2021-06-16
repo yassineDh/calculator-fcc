@@ -1,0 +1,4 @@
+export const DISPLAY_ON_SCREEN = "DISPLAY_ON_SCREEN";
+export const RESET_SCREEN = "RESET_SCREEN";
+export const DISPLAY_RESULT = "DISPLAY_RESULT";
+export const CLEAN_EXP = "CLEAN_EXP";
